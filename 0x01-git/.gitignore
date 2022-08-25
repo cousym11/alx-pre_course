@@ -1,0 +1,4 @@
+$ cd 0x01-git
+$ echo "~">.gitignore
+$ cat .gitignore
+$ git add .
